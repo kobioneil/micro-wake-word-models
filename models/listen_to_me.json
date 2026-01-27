@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "listen to me",
+  "wake_word": "listen_to_me",
   "author": "kobioneil",
   "model": "listen_to_me.tflite",
   "version": 2,
