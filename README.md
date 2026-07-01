@@ -1,16 +1,12 @@
-# ESPHome `micro_wake_word` Model collection
+# My personal "wake word" or phrase.
 
-This repository serves to host `micro_wake_word` model files (`.tflite`) for ease of use with the `micro_wake_word` ESPHome component.
 
-## Usage
-
-These files can be used by referencing them by the filename without `.tflite`.
 
 ```yaml
 micro_wake_word:
   ...
   models:
-    - model: okay_nabu
+    - model: listen_to_me
 ```
 
 ## Model Training
