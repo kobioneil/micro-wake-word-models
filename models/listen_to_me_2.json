@@ -1,6 +1,6 @@
 {
     "type": "micro",
-    "wake_word": "listen_to_me_2",
+    "wake_word": "listen_to_me",
     "author": "kobioneil",
     "website": "https://raw.githubusercontent.com/kobioneil/micro-wake-word-models/refs/heads/main/models/listen_to_me_2.json",
     "model": "listen_to_me_2.tflite",
