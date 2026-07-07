@@ -1,14 +1,15 @@
 {
-    "type": micro",
+    "type": "micro",
     "wake_word": "listen_to_me_2",
     "author": "kobioneil",
-    "website": "https://github.com/kobioneil/micro-wake-word-models/releases/download/latest/listen_to_me_2.json"
-    "probability_cutoff": 0.5,
-    "sliding_window_average_size": 10
+    "website": "https://github.com/kobioneil/micro-wake-word-models/releases/download/latest/listen_to_me_2.json",
+    "probability_cutoff": "0.5",
+    "sliding_window_average_size": "10",
     "trained_languages": ["en"],
-    "version": 3,
+    "version": "3",
     "micro": {
-    "feature_step_size": 10,
-    "tensor_arena_size": 30225,
-    "minimum_esphome_version": "2024.7"
+        "feature_step_size": "10",
+        "tensor_arena_size": "30225",
+        "minimum_esphome_version": "2024.7"
+    }
 }
