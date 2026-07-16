@@ -6,7 +6,7 @@
 micro_wake_word:
   ...
   models:
-    - model: listen_to_me
+    - model: listen_to_me_2
 ```
 
 ## Model Training
