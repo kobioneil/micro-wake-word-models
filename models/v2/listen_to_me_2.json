@@ -1,0 +1,16 @@
+{
+    "type": "micro",
+    "wake_word": "listen_to_me",
+    "author": "kobioneil",
+    "website": "https://raw.githubusercontent.com/kobioneil/micro-wake-word-models/refs/heads/main/models/listen_to_me_2.json",
+    "model": "listen_to_me_2.tflite",
+    "trained_languages": ["en"],
+    "version": "2",
+    "micro": {
+        "feature_step_size": "10",
+        "tensor_arena_size": "30225",
+        "minimum_esphome_version": "2024.7",
+        "probability_cutoff": "0.5",
+        "sliding_window_average_size": "10"
+    }
+}
